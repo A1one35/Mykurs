@@ -7,16 +7,26 @@ namespace WindowsFormsApp3
 {
     public partial class Form4 : Form
     {
+<<<<<<< HEAD
         double p, q;
         public Form4(double p, double q)
         {
             this.p = p;
             this.q = q;
+=======
+        public Form4()
+        {
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             InitializeComponent();
             hyperbolicParaboloidGraph.InitializeContexts();
         }
         private void hyperbolicParaboloidGraph_Paint(object sender, PaintEventArgs e)
         {
+<<<<<<< HEAD
+=======
+            var p = 1;
+            var q = 1;
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             var step = 0.2;
 
             Gl.glClear(Gl.GL_COLOR_BUFFER_BIT | Gl.GL_DEPTH_BUFFER_BIT);

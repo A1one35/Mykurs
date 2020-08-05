@@ -7,11 +7,16 @@ namespace WindowsFormsApp3
 {
     public partial class Form3 : Form
     {
+<<<<<<< HEAD
         double p, q;
         public Form3(double p, double q)
         {
             this.p = p;
             this.q = q;
+=======
+        public Form3()
+        {
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             InitializeComponent();
             elipticParaboloidGraph.InitializeContexts();
         }

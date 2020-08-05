@@ -35,6 +35,7 @@
             this.hyperboloid2Button = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -45,15 +46,24 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
+=======
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // elypsoidButton
             // 
+<<<<<<< HEAD
             this.elypsoidButton.Location = new System.Drawing.Point(11, 46);
             this.elypsoidButton.Margin = new System.Windows.Forms.Padding(2);
             this.elypsoidButton.Name = "elypsoidButton";
             this.elypsoidButton.Size = new System.Drawing.Size(179, 36);
+=======
+            this.elypsoidButton.Location = new System.Drawing.Point(15, 57);
+            this.elypsoidButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.elypsoidButton.Name = "elypsoidButton";
+            this.elypsoidButton.Size = new System.Drawing.Size(239, 44);
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             this.elypsoidButton.TabIndex = 0;
             this.elypsoidButton.Text = "Еліпсоїд";
             this.elypsoidButton.UseVisualStyleBackColor = true;
@@ -61,10 +71,17 @@
             // 
             // elypticParaboloidButton
             // 
+<<<<<<< HEAD
             this.elypticParaboloidButton.Location = new System.Drawing.Point(11, 86);
             this.elypticParaboloidButton.Margin = new System.Windows.Forms.Padding(2);
             this.elypticParaboloidButton.Name = "elypticParaboloidButton";
             this.elypticParaboloidButton.Size = new System.Drawing.Size(179, 36);
+=======
+            this.elypticParaboloidButton.Location = new System.Drawing.Point(15, 106);
+            this.elypticParaboloidButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.elypticParaboloidButton.Name = "elypticParaboloidButton";
+            this.elypticParaboloidButton.Size = new System.Drawing.Size(239, 44);
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             this.elypticParaboloidButton.TabIndex = 1;
             this.elypticParaboloidButton.Text = "Еліптичний параболоїд";
             this.elypticParaboloidButton.UseVisualStyleBackColor = true;
@@ -72,10 +89,17 @@
             // 
             // hyperbolicParaboloidButton
             // 
+<<<<<<< HEAD
             this.hyperbolicParaboloidButton.Location = new System.Drawing.Point(11, 127);
             this.hyperbolicParaboloidButton.Margin = new System.Windows.Forms.Padding(2);
             this.hyperbolicParaboloidButton.Name = "hyperbolicParaboloidButton";
             this.hyperbolicParaboloidButton.Size = new System.Drawing.Size(179, 36);
+=======
+            this.hyperbolicParaboloidButton.Location = new System.Drawing.Point(15, 156);
+            this.hyperbolicParaboloidButton.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.hyperbolicParaboloidButton.Name = "hyperbolicParaboloidButton";
+            this.hyperbolicParaboloidButton.Size = new System.Drawing.Size(239, 44);
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             this.hyperbolicParaboloidButton.TabIndex = 2;
             this.hyperbolicParaboloidButton.Text = "Гіперболічний параболоїд";
             this.hyperbolicParaboloidButton.UseVisualStyleBackColor = true;
@@ -83,10 +107,17 @@
             // 
             // hyperboloid1Button
             // 
+<<<<<<< HEAD
             this.hyperboloid1Button.Location = new System.Drawing.Point(11, 168);
             this.hyperboloid1Button.Margin = new System.Windows.Forms.Padding(2);
             this.hyperboloid1Button.Name = "hyperboloid1Button";
             this.hyperboloid1Button.Size = new System.Drawing.Size(179, 36);
+=======
+            this.hyperboloid1Button.Location = new System.Drawing.Point(15, 207);
+            this.hyperboloid1Button.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.hyperboloid1Button.Name = "hyperboloid1Button";
+            this.hyperboloid1Button.Size = new System.Drawing.Size(239, 44);
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             this.hyperboloid1Button.TabIndex = 3;
             this.hyperboloid1Button.Text = "Гіперболоїд однолистовий";
             this.hyperboloid1Button.UseVisualStyleBackColor = true;
@@ -94,10 +125,17 @@
             // 
             // hyperboloid2Button
             // 
+<<<<<<< HEAD
             this.hyperboloid2Button.Location = new System.Drawing.Point(11, 208);
             this.hyperboloid2Button.Margin = new System.Windows.Forms.Padding(2);
             this.hyperboloid2Button.Name = "hyperboloid2Button";
             this.hyperboloid2Button.Size = new System.Drawing.Size(179, 36);
+=======
+            this.hyperboloid2Button.Location = new System.Drawing.Point(15, 256);
+            this.hyperboloid2Button.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.hyperboloid2Button.Name = "hyperboloid2Button";
+            this.hyperboloid2Button.Size = new System.Drawing.Size(239, 44);
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             this.hyperboloid2Button.TabIndex = 4;
             this.hyperboloid2Button.Text = "Гіперболоїд дволистовий";
             this.hyperboloid2Button.UseVisualStyleBackColor = true;
@@ -109,15 +147,22 @@
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
+<<<<<<< HEAD
             this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(201, 42);
+=======
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(268, 52);
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             this.panel1.TabIndex = 5;
             // 
             // label1
             // 
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(11, 9);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
@@ -205,11 +250,21 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(147, 20);
             this.textBox5.TabIndex = 15;
+=======
+            this.label1.Location = new System.Drawing.Point(15, 11);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(239, 26);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Оберіть графік";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.label1.Click += new System.EventHandler(this.Label1_Click);
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(201, 384);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.textBox4);
@@ -221,18 +276,24 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
+=======
+            this.ClientSize = new System.Drawing.Size(268, 311);
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.hyperboloid2Button);
             this.Controls.Add(this.hyperboloid1Button);
             this.Controls.Add(this.hyperbolicParaboloidButton);
             this.Controls.Add(this.elypticParaboloidButton);
             this.Controls.Add(this.elypsoidButton);
+<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             this.Name = "Form1";
             this.Text = "Поверхні другого порядку";
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -245,6 +306,7 @@
         private System.Windows.Forms.Button hyperboloid2Button;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
+<<<<<<< HEAD
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
@@ -255,6 +317,8 @@
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox5;
+=======
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
     }
 }
 

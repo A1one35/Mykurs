@@ -7,17 +7,28 @@ namespace WindowsFormsApp3
 {
     public partial class Form6 : Form
     {
+<<<<<<< HEAD
         double a, b, c;
         public Form6(double a, double b, double c)
         {
             this.a = a;
             this.b = b;
             this.c = c;
+=======
+        public Form6()
+        {
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             InitializeComponent();
             hyperboloid2Graph.InitializeContexts();
         }
         private void hyperboloid2Graph_Paint(object sender, PaintEventArgs e)
         {
+<<<<<<< HEAD
+=======
+            var a = 0.5;
+            var b = 0.5;
+            var c = 0.5;
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
             var tStep = Math.PI / 15;
             var sStep = Math.PI / 15;
 

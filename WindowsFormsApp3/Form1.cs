@@ -12,6 +12,7 @@ namespace WindowsFormsApp3
         }
         private void Button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (initGraph())
             {
                 Form2 form2 = new Form2(a, b, c);
@@ -62,6 +63,38 @@ namespace WindowsFormsApp3
                 double.TryParse(textBox3.Text, out c) &&
                 double.TryParse(textBox4.Text, out p) &&
                 double.TryParse(textBox5.Text, out q));
+=======
+            Form2 form2 = new Form2();
+            form2.ShowDialog();
+        }
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            form3.ShowDialog();
+        }
+
+        private void hyperbolicParaboloidButton_Click(object sender, EventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.ShowDialog();
+        }
+
+        private void hyperboloid1Button_Click(object sender, EventArgs e)
+        {
+            Form5 form5 = new Form5();
+            form5.ShowDialog();
+        }
+
+        private void hyperboloid2Button_Click(object sender, EventArgs e)
+        {
+            Form6 form6 = new Form6();
+            form6.ShowDialog();
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+>>>>>>> 41ab3497ae0a6d9f70c31a1b4b8e2bd4b6d43da1
         }
     }
 }
